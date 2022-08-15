@@ -8,5 +8,15 @@
         "34:CB:3D:8A:7F:2E:B3:D5:4F:CC:E0:DC:A2:59:2C:87:CF:12:DE:91:18:F4:30:62:EC:59:DE:3A:8E:46:BD:0D"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "reoneo.twa",
+      "sha256_cert_fingerprints": [
+        "62:B7:77:F4:08:FE:9D:8C:DB:9B:E4:A2:D8:7B:E0:76:85:4C:E4:20:1F:E4:64:36:6E:AA:28:36:0D:19:38:E0"
+      ]
+    }
   }
 ]
