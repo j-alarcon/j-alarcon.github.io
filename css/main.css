@@ -1,0 +1,67 @@
+.max-width {
+  width: 100%;
+}
+
+.mano-negra {
+  font-family: "Mano Negra";
+}
+
+.reem-kufi {
+  font-family: "Reem Kufi";
+}
+
+.black {
+  background-color: #292929ff;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.orange-bottom-line {
+  border-bottom: 0.8rem solid #f0a85dff;
+}
+
+.huge-fontsize {
+  font-size: 4.8rem;
+}
+
+.big-fontsize {
+  font-size: 4rem;
+}
+
+.medium-fontsize {
+  font-size: 1.2rem;
+}
+
+.title {
+  padding: 1.5rem 1rem 1.5rem 1rem;
+}
+
+.paragraph {
+  padding: 1.5rem 2rem 1.5rem 2rem;
+  line-height: 2.8rem;
+}
+
+#left-tag-symbol {
+  margin-top: 1rem;
+  transform: rotate(-8deg);
+}
+
+#right-tag-symbol {
+  margin-top: 0.4rem;
+  transform: rotate(12deg);
+  margin-left: -0.3rem;
+}
+
+.credits{
+    padding: .2rem .4rem .2rem .2rem;
+}
