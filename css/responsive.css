@@ -1,0 +1,27 @@
+@media screen and (max-width: 1100px) {
+  .huge-fontsize {
+    font-size: 3.8rem;
+  }
+
+  .big-fontsize {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .huge-fontsize {
+    font-size: 2.3rem;
+  }
+
+  .big-fontsize {
+    font-size: 1.9rem;
+  }
+
+  #left-tag-symbol {
+    margin-top: 0.5rem;
+  }
+
+  #right-tag-symbol {
+    margin: 0.2rem 0 0 -0.1rem;
+  }
+}

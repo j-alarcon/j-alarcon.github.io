@@ -57,11 +57,10 @@
 }
 
 #right-tag-symbol {
-  margin-top: 0.4rem;
+  margin: 0.4rem 0 0 -0.3rem;
   transform: rotate(12deg);
-  margin-left: -0.3rem;
 }
 
-.credits{
-    padding: .2rem .4rem .2rem .2rem;
+.credits {
+  padding: 0.2rem 0.4rem 0.2rem 0.2rem;
 }
