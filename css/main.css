@@ -2,6 +2,10 @@
   width: 100%;
 }
 
+.overflow-x-hidden{
+  overflow-x: hidden;
+}
+
 .mano-negra {
   font-family: "Mano Negra";
 }
@@ -43,7 +47,7 @@
 }
 
 .title {
-  padding: 1.5rem 1rem 1.5rem 1rem;
+  padding: 1.5rem 2.2rem 1.5rem 1rem;
 }
 
 .paragraph {

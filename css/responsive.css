@@ -25,3 +25,40 @@
     margin: 0.2rem 0 0 -0.1rem;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .huge-fontsize {
+    font-size: 2.3rem;
+  }
+
+  .big-fontsize {
+    font-size: 1.8rem;
+  }
+
+  #left-tag-symbol {
+    margin-top: 0.5rem;
+  }
+
+  #right-tag-symbol {
+    margin: 0.2rem 0 0 -0.1rem;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .hidden-z {
+    display: none;
+  }
+
+  .title {
+    padding-right: 1rem;
+  }
+
+  .paragraph,
+  .credits {
+    padding: 3% 5% 3% 5%;
+  }
+
+  .credits {
+    position: static;
+  }
+}
