@@ -1,8 +1,9 @@
+/* https://github.com/j-alarcon */
 .max-width {
   width: 100%;
 }
 
-.overflow-x-hidden{
+.overflow-x-hidden {
   overflow-x: hidden;
 }
 

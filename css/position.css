@@ -1,3 +1,4 @@
+/* https://github.com/j-alarcon */
 .flex {
   display: flex;
 }
@@ -18,6 +19,6 @@
   position: relative;
 }
 
-.credits{
-    right: 0;
+.credits {
+  right: 0;
 }
