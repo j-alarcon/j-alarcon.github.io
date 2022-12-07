@@ -18,5 +18,15 @@
         "62:B7:77:F4:08:FE:9D:8C:DB:9B:E4:A2:D8:7B:E0:76:85:4C:E4:20:1F:E4:64:36:6E:AA:28:36:0D:19:38:E0"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "mathcard.twa",
+      "sha256_cert_fingerprints": [
+        "86:80:CE:08:F9:E9:43:ED:6E:0D:89:F7:79:89:A4:37:7C:7B:FF:3A:73:C7:83:E7:6B:6B:ED:D5:D3:42:89:33"
+      ]
+    }
   }
 ]
