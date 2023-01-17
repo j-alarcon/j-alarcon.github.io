@@ -104,8 +104,16 @@
   font-size: 4rem;
 }
 
+.intermediate-fontsize{
+  font-size: 3rem;
+}
+
 .normal-fontsize {
   font-size: 2.3rem;
+}
+
+.standard-fontsize{
+  font-size: 1.7rem;
 }
 
 @-moz-document url-prefix() {
@@ -180,5 +188,6 @@
 }
 
 .error-line {
+  margin-right: .5rem;
   padding-top: 0.2rem;
 }
