@@ -22,3 +22,78 @@
 .credits {
   right: 0;
 }
+
+.bubble-container{
+  z-index: 4;
+}
+
+.bubble1 {
+  bottom: -7rem;
+  right: 4rem;
+}
+
+.bubble2 {
+  bottom: -10rem;
+  right: -16rem;
+  z-index: 2;
+}
+
+.bubble3 {
+  bottom: -8rem;
+  right: -33rem;
+}
+
+.bubble4 {
+  bottom: -19.2rem;
+  right: -4rem;
+}
+
+.bubble5 {
+  bottom: -25rem;
+  right: -8rem;
+}
+
+.bubble-extra1{
+  bottom: -6.1rem;
+  right: 6rem;
+  z-index: 3;
+ 
+}
+
+.bubble-extra2{
+  bottom: -7.2rem;
+  right: -29.3rem;
+  z-index: 3;
+}
+
+.bubble-text{
+  top: 2.6rem;
+  z-index: 4;
+}
+
+.github{
+  margin: 7rem 40rem 0 0;
+}
+
+.linkedin{
+  margin: 7rem -43rem 0 0;
+}
+
+.twitter{
+  margin: 18rem -43rem 0 0;
+}
+
+.instagram{
+  margin: 18rem 43rem 0 0;
+}
+
+.facebook{
+  margin: -4rem 43rem 0 0;
+}
+
+.kofi{
+  margin: -4rem -43rem 0 0;
+}
+
+
+
