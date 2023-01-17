@@ -56,6 +56,10 @@
   border-bottom: 0.8rem solid #f0a85dff;
 }
 
+.orange-bottom-line-small {
+  border-bottom: 0.3rem solid #f0a85dff;
+}
+
 .overflow-hidden {
   overflow: hidden;
 }
@@ -80,7 +84,7 @@
   color: white;
 }
 
-.orange-text{
+.orange-text {
   color: #f0a85dff;
 }
 
@@ -114,6 +118,14 @@
   font-size: 1.2rem;
 }
 
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
 .title {
   padding: 1.5rem 2.2rem 1.5rem 1rem;
 }
@@ -134,7 +146,7 @@
 }
 
 .credits {
-  padding: 0.2rem 0.4rem 0.2rem 0.2rem;
+  padding: 0.2rem 0.6rem 0.5rem 0.2rem;
 }
 
 .bubble-container {
@@ -161,4 +173,12 @@
 
 .social:hover {
   opacity: 0.7;
+}
+
+.error-title {
+  padding-bottom: 0.2rem;
+}
+
+.error-line {
+  padding-top: 0.2rem;
 }
