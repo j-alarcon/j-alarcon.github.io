@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="55"
+   height="52"
+   viewBox="0 0 14.552084 13.758334"
+   version="1.1"
+   id="svg9867"
+   inkscape:export-filename="../../../../j-alarcon/img/icons/ubuntu.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   sodipodi:docname="kofi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9869"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="41.896077"
+     inkscape:cy="30.052038"
+     inkscape:window-width="1920"
+     inkscape:window-height="949"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="0.1378982,6.5217155"
+       orientation="1,0"
+       id="guide31099"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.3961174,13.638705"
+       orientation="0,-1"
+       id="guide31101"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="14.414185,7.5325447"
+       orientation="1,0"
+       id="guide31103"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="10.475867,0.11963543"
+       orientation="0,-1"
+       id="guide31105"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9864" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#29abe0;fill-opacity:1;stroke:#292929;stroke-width:0.652308;stroke-opacity:1"
+       id="rect120393"
+       width="13.623975"
+       height="12.866756"
+       x="0.4640553"
+       y="0.44578883"
+       ry="1.7713981" />
+    <g
+       id="g29372"
+       transform="matrix(0.21865174,0,0,0.21865174,-0.03064426,-0.30679265)">
+      <path
+         d="m 43.750231,17.297297 h 3.159935 c 6.094892,0 11.035778,4.940886 11.035778,11.035777 v 0.648678 c 0,6.094892 -4.940886,11.035778 -11.035778,11.035778 h -3.159935 v 3.321464 c 0,2.813028 -2.280408,5.093437 -5.093436,5.093437 H 14.606949 c -2.813027,0 -5.0934358,-2.280409 -5.0934358,-5.093437 V 19.844015 c 0,-1.406514 1.1402048,-2.546718 2.5467178,-2.546718 z m 0,5.890431 v 10.939371 h 2.880734 c 3.020823,0 5.469686,-2.448861 5.469686,-5.469685 0,-3.020825 -2.448863,-5.469686 -5.469686,-5.469686 z"
+         id="Rectangle-2"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1.9656" />
+      <g
+         id="Group"
+         transform="matrix(1.9656019,0,0,1.9656019,9.5135129,17.297296)"
+         style="fill:#ff5e5b;fill-rule:nonzero;stroke:none;stroke-width:1">
+        <path
+           d="M 8.36,5.2768458 C 8.7602942,4.1056152 9.7089414,3.52 11.205941,3.52 c 2.2455,0 3.077965,2.7936503 1.900934,4.62 C 12.322188,9.3575665 10.739896,10.897567 8.36,12.76 5.9801039,10.897567 4.3978123,9.3575665 3.613125,8.14 2.4360941,6.3136503 3.2685587,3.52 5.5140587,3.52 7.0110586,3.52 7.9597058,4.1056152 8.36,5.2768458 Z"
+           id="Path-2"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

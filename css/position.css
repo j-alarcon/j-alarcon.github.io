@@ -1,4 +1,19 @@
 /* https://yarduon.com */
+.bubble-container,
+.bubble-text {
+  z-index: 4;
+}
+
+.bubble-extra1,
+.bubble-extra2 {
+  z-index: 3;
+}
+
+.penguin-container,
+.social-media {
+  bottom: 0;
+}
+
 .flex {
   display: flex;
 }
@@ -21,10 +36,6 @@
 
 .credits {
   right: 0;
-}
-
-.bubble-container{
-  z-index: 4;
 }
 
 .bubble1 {
@@ -53,47 +64,46 @@
   right: -8rem;
 }
 
-.bubble-extra1{
+.bubble-extra1 {
   bottom: -6.1rem;
   right: 6rem;
-  z-index: 3;
- 
 }
 
-.bubble-extra2{
+.bubble-extra2 {
   bottom: -7.2rem;
   right: -29.3rem;
-  z-index: 3;
 }
 
-.bubble-text{
+.bubble-text {
   top: 2.6rem;
-  z-index: 4;
 }
 
-.github{
-  margin: 7rem 40rem 0 0;
+.github {
+  rotate: -15deg;
+  margin: 14rem 35rem 0 0;
 }
 
-.linkedin{
-  margin: 7rem -43rem 0 0;
+.linkedin {
+  rotate: -8deg;
+  margin: 6rem -30rem 0 0;
 }
 
-.twitter{
-  margin: 18rem -43rem 0 0;
+.kofi {
+  rotate: -20deg;
+  margin: 18rem -41rem 0 0;
 }
 
-.instagram{
-  margin: 18rem 43rem 0 0;
+.instagram {
+  rotate: 20deg;
+  margin: 22rem 43rem 0 0;
 }
 
-.facebook{
-  margin: -4rem 43rem 0 0;
+.facebook {
+  rotate: 15deg;
+  margin: 3.5rem 45rem 0 0;
 }
 
-.kofi{
-  margin: -4rem -43rem 0 0;
+.twitter {
+  rotate: 7deg;
+  margin: -3rem -2rem 0 0;
 }
-
-
-

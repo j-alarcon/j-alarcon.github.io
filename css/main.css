@@ -1,4 +1,15 @@
 /* https://yarduon.com */
+.medium-circle,
+.social {
+  width: 7rem;
+  height: 7rem;
+}
+
+.bubble-extra1,
+.bubble-extra2 {
+  width: 24rem;
+}
+
 .max-width {
   width: 100%;
 }
@@ -16,23 +27,25 @@
   height: 30rem;
 }
 
-.hider-circle {
-  width: 24rem;
-  height: 25rem;
-}
-
-.medium-circle {
-  width: 7rem;
-  height: 7rem;
-}
-
 .small-circle {
   width: 5rem;
   height: 5rem;
 }
 
+.darker-black {
+  background-color: rgb(19, 18, 18);
+}
+
+.black {
+  background-color: #292929ff;
+}
+
+.white {
+  background-color: rgb(248, 247, 247);
+}
+
 .black-border {
-  border: 0.8rem solid rgb(19, 18, 18);
+  border: 0.8rem solid rgb(26, 25, 25);
 }
 
 .orange-border {
@@ -55,23 +68,11 @@
   font-family: "Reem Kufi";
 }
 
-.darker-black {
-  background-color: rgb(19, 18, 18);
-}
-
-.black {
-  background-color: #292929ff;
-}
-
-.white {
-  background-color: white;
-}
-
 .black-text {
   color: #292929ff;
 }
 
-.text-white {
+.white-text {
   color: white;
 }
 
@@ -81,10 +82,6 @@
 
 .text-right {
   text-align: right;
-}
-
-.orange-bottom-line {
-  border-bottom: 0.8rem solid #f0a85dff;
 }
 
 .huge-fontsize {
@@ -99,11 +96,14 @@
   font-size: 2.3rem;
 }
 
-.medium-fontsize {
-  font-size: 1.2rem;
+@-moz-document url-prefix() {
+  .normal-fontsize {
+    font-size: 1.9rem;
+  }
 }
 
-.medium-image {
+.medium-fontsize {
+  font-size: 1.2rem;
 }
 
 .title {
@@ -135,20 +135,22 @@
   padding-right: 30rem;
 }
 
-.main-container {
-  padding-top: 20rem;
+.bubble-extra1 {
+  height: 25rem;
 }
 
-.penguin-container {
-  margin-top: 8rem;
+.bubble-extra2 {
+  height: 24rem;
 }
 
-.social{
-  width: 7rem;
-  height: 7rem;
-  filter: drop-shadow(5px 5px 0px white)
+.social-media {
+  height: 35rem;
 }
 
-.social:hover{
-  opacity: .7;
+.social {
+  filter: drop-shadow(5px 5px 0px white);
+}
+
+.social:hover {
+  opacity: 0.7;
 }
