@@ -33,7 +33,7 @@
 }
 
 .darker-black {
-  background-color: rgb(19, 18, 18);
+  background-color: rgb(32, 31, 31);
 }
 
 .black {
@@ -50,6 +50,10 @@
 
 .orange-border {
   border: 0.9rem solid #f0a85dff;
+}
+
+.orange-bottom-line {
+  border-bottom: 0.8rem solid #f0a85dff;
 }
 
 .overflow-hidden {
@@ -74,6 +78,10 @@
 
 .white-text {
   color: white;
+}
+
+.orange-text{
+  color: #f0a85dff;
 }
 
 .text-justify {
