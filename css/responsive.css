@@ -62,22 +62,22 @@
   }
 
   .bubble-container {
-    height: 31vh;
+    height: 35vh;
     padding-right: 0;
   }
 
   .bubble-text {
     width: auto;
     text-align: justify;
-    margin: 5vh 2vh 0 2vh;
+    margin: 6vh 2vh 0 2vh;
   }
 
   .bubble4 {
-    margin: 0 20vh 10vh 0;
+    margin: 0 16vh 0 0;
   }
 
   .bubble5 {
-    margin: 0 16vh 4vh 0;
+    margin: 14vh 10vh 0 0;
   }
 
   .social {
