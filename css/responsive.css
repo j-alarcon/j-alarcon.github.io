@@ -1,4 +1,20 @@
 /* https://yarduon.com */
+
+@media screen and (max-width: 1300px) {
+  .normal-fontsize-spec {
+    font-size: 2.9vh;
+  }
+
+  @-moz-document url-prefix() {
+    .normal-fontsize-spec {
+      font-size: 2.7vh;
+    }
+  }
+  .bubble-text {
+    margin: 0 20% 0 25%;
+  }
+}
+
 @media screen and (max-width: 1100px) {
   .huge-fontsize {
     font-size: 3.8rem;
@@ -7,23 +23,14 @@
   .big-fontsize {
     font-size: 3rem;
   }
-}
 
-@media screen and (max-width: 600px) {
-  .huge-fontsize {
-    font-size: 2.3rem;
+  .social {
+    width: 10vh;
+    height: 10vh;
   }
 
-  .big-fontsize {
-    font-size: 1.9rem;
-  }
-
-  #left-tag-symbol {
-    margin-top: 0.5rem;
-  }
-
-  #right-tag-symbol {
-    margin: 0.2rem 0 0 -0.1rem;
+  .penguin-thinking {
+    width: 47vh;
   }
 }
 
@@ -42,6 +49,60 @@
 
   #right-tag-symbol {
     margin: 0.2rem 0 0 -0.1rem;
+  }
+
+  .bubble-container {
+    height: 28vh;
+    padding-right: 0;
+  }
+
+  .bubble-text {
+    width: auto;
+    text-align: justify;
+    margin: 2vh 0 0 0;
+  }
+
+  .bubble4 {
+    bottom: -33vh;
+    right: 3vh;
+  }
+
+  .bubble5 {
+    bottom: -45vh;
+    right: 1vh;
+  }
+
+  .social {
+    width: 6.5vh;
+    height: 6.5vh;
+  }
+
+  .twitter {
+    margin: -8vh -10vh 0 0;
+  }
+
+  .linkedin {
+    margin: -10vh -31vh 0 0;
+  }
+
+  .kofi {
+    margin: 3vh 35vh 0 0;
+  }
+
+  .facebook {
+    margin: 15vh 36vh 0 0;
+  }
+
+  .github {
+    margin: 1vh -23vh 0 0;
+  }
+
+  .instagram {
+    margin: 9vh -32vh 0 0;
+  }
+
+  .penguin-thinking {
+    width: 38vh;
   }
 }
 
