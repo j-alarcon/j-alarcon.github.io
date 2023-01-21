@@ -4,12 +4,7 @@
   z-index: 4;
 }
 
-.bubble-extra1,
-.bubble-extra2 {
-  z-index: 3;
-}
-
-.penguin-container,
+.penguin-thinking,
 .social-media {
   bottom: 0;
 }
@@ -24,6 +19,10 @@
 
 .justify-center {
   justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
 }
 
 .align-center {
@@ -43,71 +42,31 @@
 }
 
 .bubble1 {
-  bottom: -7rem;
-  right: 4rem;
+  bottom: -12vh;
+  right: 10vh;
 }
 
 .bubble2 {
-  bottom: -10rem;
-  right: -16rem;
+  bottom: -18vh;
+  right: -22vh;
   z-index: 2;
 }
 
 .bubble3 {
-  bottom: -8rem;
-  right: -33rem;
+  bottom: -15vh;
+  right: -54vh;
 }
 
 .bubble4 {
-  bottom: -19.2rem;
-  right: -4rem;
+  bottom: -34vh;
+  right: -9vh;
 }
 
 .bubble5 {
-  bottom: -25rem;
-  right: -8rem;
-}
-
-.bubble-extra1 {
-  bottom: -6.1rem;
-  right: 6rem;
-}
-
-.bubble-extra2 {
-  bottom: -7.2rem;
-  right: -29.3rem;
+  bottom: -45vh;
+  right: -14vh;
 }
 
 .bubble-text {
-  top: 2.6rem;
-}
-
-.github {
-  rotate: -15deg;
-  margin: 14rem 35rem 0 0;
-}
-
-.linkedin {
-  rotate: -8deg;
-  margin: 6rem -30rem 0 0;
-}
-
-.kofi {
-  rotate: -20deg;
-  margin: 18rem -41rem 0 0;
-}
-
-.instagram {
-  rotate: 20deg;
-  margin: 22rem 43rem 0 0;
-}
-
-.facebook {
-  rotate: 15deg;
-  margin: 3.5rem 45rem 0 0;
-}
-
-.twitter {
-  rotate: 7deg;
-  margin: -3rem -2rem 0 0;
+  top: 2.1vh;
 }

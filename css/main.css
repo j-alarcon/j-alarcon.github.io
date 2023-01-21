@@ -1,13 +1,8 @@
 /* https://yarduon.com */
 .medium-circle,
 .social {
-  width: 7rem;
-  height: 7rem;
-}
-
-.bubble-extra1,
-.bubble-extra2 {
-  width: 24rem;
+  width: 12vh;
+  height: 12vh;
 }
 
 .max-width {
@@ -23,13 +18,13 @@
 }
 
 .big-circle {
-  width: 30rem;
-  height: 30rem;
+  width: 45vh;
+  height: 45vh;
 }
 
 .small-circle {
-  width: 5rem;
-  height: 5rem;
+  width: 8vh;
+  height: 8vh;
 }
 
 .darker-black {
@@ -44,12 +39,8 @@
   background-color: rgb(248, 247, 247);
 }
 
-.black-border {
-  border: 0.8rem solid rgb(20, 20, 20);
-}
-
 .orange-border {
-  border: 0.9rem solid #f0a85dff;
+  border: 2vh solid #f0a85dff;
 }
 
 .orange-bottom-line {
@@ -104,7 +95,7 @@
   font-size: 4rem;
 }
 
-.intermediate-fontsize{
+.intermediate-fontsize {
   font-size: 3rem;
 }
 
@@ -112,14 +103,18 @@
   font-size: 2.3rem;
 }
 
-.standard-fontsize{
-  font-size: 1.7rem;
+.normal-fontsize-spec {
+  font-size: 3.6vh;
 }
 
 @-moz-document url-prefix() {
-  .normal-fontsize {
-    font-size: 1.9rem;
+  .normal-fontsize-spec {
+    font-size: 3.4vh;
   }
+}
+
+.standard-fontsize {
+  font-size: 1.7rem;
 }
 
 .medium-fontsize {
@@ -158,29 +153,58 @@
 }
 
 .bubble-container {
-  height: 8rem;
-  margin-right: 10rem;
-  padding-right: 30rem;
+  height: 8vh;
+  padding-right: 50vh;
 }
 
-.bubble-extra1 {
-  height: 25rem;
+.penguin-container {
+  height: 60%;
 }
 
-.bubble-extra2 {
-  height: 24rem;
+.penguin-thinking {
+  width: 53vh;
 }
 
 .social-media {
-  height: 35rem;
+  height: 40vh;
 }
 
 .social {
-  filter: drop-shadow(5px 5px 0px white);
+  filter: drop-shadow(0.65vh 0.65vh 0 white);
 }
 
 .social:hover {
   opacity: 0.7;
+}
+
+.facebook {
+  rotate: 15deg;
+  margin: -11vh 65vh 0 0;
+}
+
+.github {
+  rotate: -15deg;
+  margin: 8vh 65vh 0 0;
+}
+
+.instagram {
+  rotate: 20deg;
+  margin: 21.5vh 78vh 0 0;
+}
+
+.twitter {
+  rotate: 7deg;
+  margin: -25vh -2vh 0 0;
+}
+
+.linkedin {
+  rotate: -8deg;
+  margin: -6vh -55vh 0 0;
+}
+
+.kofi {
+  rotate: -20deg;
+  margin: 18vh -75vh 0 0;
 }
 
 .error-title {
@@ -188,6 +212,6 @@
 }
 
 .error-line {
-  margin-right: .5rem;
+  margin-right: 0.5rem;
   padding-top: 0.2rem;
 }
