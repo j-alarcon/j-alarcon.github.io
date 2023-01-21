@@ -59,16 +59,16 @@
   .bubble-text {
     width: auto;
     text-align: justify;
-    margin: 3vh 0 0 0;
+    margin: 3vh 2vh 0 2vh;
   }
 
   .bubble4 {
-    bottom: -32vh;
+    bottom: -30vh;
     right: 3vh;
   }
 
   .bubble5 {
-    bottom: -43vh;
+    bottom: -41vh;
     right: 2vh;
   }
 
