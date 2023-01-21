@@ -1,5 +1,4 @@
 /* https://yarduon.com */
-
 @media screen and (max-width: 1300px) {
   .normal-fontsize-spec {
     font-size: 2.9vh;
@@ -91,7 +90,7 @@
   .bubble-text {
     width: auto;
     text-align: justify;
-    margin: 7vh 2vh 0 2vh;
+    margin: 6vh 2vh 0 2vh;
   }
 
   .bubble4 {
