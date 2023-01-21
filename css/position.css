@@ -1,4 +1,9 @@
 /* https://yarduon.com */
+.social-media,
+.bubble2 {
+  z-index: 2;
+}
+
 .bubble-container,
 .bubble-text {
   z-index: 4;
@@ -43,27 +48,26 @@
 
 .bubble1 {
   bottom: -12vh;
-  right: 10vh;
+  right: 9vh;
 }
 
 .bubble2 {
-  bottom: -18vh;
-  right: -22vh;
-  z-index: 2;
+  bottom: -17vh;
+  right: -26vh;
 }
 
 .bubble3 {
   bottom: -15vh;
-  right: -54vh;
+  right: -56vh;
 }
 
 .bubble4 {
-  bottom: -34vh;
+  bottom: -33vh;
   right: -9vh;
 }
 
 .bubble5 {
-  bottom: -45vh;
+  bottom: -44vh;
   right: -14vh;
 }
 

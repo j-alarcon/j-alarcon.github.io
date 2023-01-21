@@ -18,8 +18,8 @@
 }
 
 .big-circle {
-  width: 45vh;
-  height: 45vh;
+  width: 50vh;
+  height: 50vh;
 }
 
 .small-circle {
@@ -153,7 +153,7 @@
 }
 
 .bubble-container {
-  height: 8vh;
+  height: 9vh;
   padding-right: 50vh;
 }
 
@@ -179,32 +179,32 @@
 
 .facebook {
   rotate: 15deg;
-  margin: -11vh 65vh 0 0;
+  margin: -16vh 68vh 0 0;
 }
 
 .github {
   rotate: -15deg;
-  margin: 8vh 65vh 0 0;
+  margin: 3vh 60vh 0 0;
 }
 
 .instagram {
   rotate: 20deg;
-  margin: 21.5vh 78vh 0 0;
+  margin: 16vh 78vh 0 0;
 }
 
 .twitter {
   rotate: 7deg;
-  margin: -25vh -2vh 0 0;
+  margin: -25vh -4vh 0 0;
 }
 
 .linkedin {
   rotate: -8deg;
-  margin: -6vh -55vh 0 0;
+  margin: -9vh -50vh 0 0;
 }
 
 .kofi {
   rotate: -20deg;
-  margin: 18vh -75vh 0 0;
+  margin: 12vh -75.5vh 0 0;
 }
 
 .error-title {
