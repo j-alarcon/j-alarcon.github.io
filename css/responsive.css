@@ -59,17 +59,17 @@
   .bubble-text {
     width: auto;
     text-align: justify;
-    margin: 2vh 0 0 0;
+    margin: 3vh 0 0 0;
   }
 
   .bubble4 {
-    bottom: -33vh;
+    bottom: -32vh;
     right: 3vh;
   }
 
   .bubble5 {
-    bottom: -45vh;
-    right: 1vh;
+    bottom: -43vh;
+    right: 2vh;
   }
 
   .social {
