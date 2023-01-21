@@ -43,6 +43,16 @@
     font-size: 1.8rem;
   }
 
+  .medium-circle {
+    width: 10vh;
+    height: 10vh;
+  }
+
+  .small-circle {
+    width: 6vh;
+    height: 6vh;
+  }
+
   #left-tag-symbol {
     margin-top: 0.5rem;
   }
@@ -63,11 +73,11 @@
   }
 
   .bubble4 {
-    margin: 0 12vh 1vh 0;
+    margin: 0 12vh 2vh 0;
   }
 
   .bubble5 {
-    margin: 0 16vh 0vh 0;
+    margin: 0 16vh 2vh 0;
   }
 
   .social {
