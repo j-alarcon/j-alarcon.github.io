@@ -43,6 +43,36 @@
     font-size: 1.8rem;
   }
 
+  #left-tag-symbol {
+    margin-top: 0.5rem;
+  }
+
+  #right-tag-symbol {
+    margin: 0.2rem 0 0 -0.1rem;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .hidden-z {
+    display: none;
+  }
+
+  .title {
+    padding-right: 1rem;
+  }
+
+  .paragraph,
+  .credits {
+    padding: 3% 5% 3% 5%;
+  }
+
+  .credits {
+    position: static;
+  }
+}
+
+/* Under construction screen */
+@media screen and (max-width: 70vh) {
   .medium-circle {
     width: 10vh;
     height: 10vh;
@@ -51,14 +81,6 @@
   .small-circle {
     width: 6vh;
     height: 6vh;
-  }
-
-  #left-tag-symbol {
-    margin-top: 0.5rem;
-  }
-
-  #right-tag-symbol {
-    margin: 0.2rem 0 0 -0.1rem;
   }
 
   .bubble-container {
@@ -77,7 +99,7 @@
   }
 
   .bubble5 {
-    margin: 13vh 10vh 0 0;
+    margin: 12vh 10vh 0 0;
   }
 
   .social {
@@ -111,24 +133,5 @@
 
   .penguin-thinking {
     width: 38vh;
-  }
-}
-
-@media screen and (max-width: 350px) {
-  .hidden-z {
-    display: none;
-  }
-
-  .title {
-    padding-right: 1rem;
-  }
-
-  .paragraph,
-  .credits {
-    padding: 3% 5% 3% 5%;
-  }
-
-  .credits {
-    position: static;
   }
 }
