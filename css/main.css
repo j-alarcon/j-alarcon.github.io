@@ -161,16 +161,18 @@
   padding-right: 50vh;
 }
 
+.penguin-container {
+  height: 60%;
+}
+
 .bubble4 {
-  margin: -11vh 41vh 0 0;
+  bottom: 57.5vh;
+  right: 13vh;
 }
 
 .bubble5 {
-  margin: 3vh 30vh 0 0;
-}
-
-.penguin-container {
-  height: 60%;
+  bottom: 47vh;
+  right: 9.5vh;
 }
 
 .penguin-thinking {
@@ -195,7 +197,6 @@
   -moz-transform: rotate(15deg);
   -o-transform: rotate(15deg);
   transform: rotate(15deg);
-  margin: -15vh 60vh 0 0;
 }
 
 .github {
@@ -204,7 +205,6 @@
   -moz-transform: rotate(-15deg);
   -o-transform: rotate(-15deg);
   transform: rotate(-15deg);
-  margin: 3vh 57vh 0 0;
 }
 
 .instagram {
@@ -213,7 +213,6 @@
   -moz-transform: rotate(20deg);
   -o-transform: rotate(20deg);
   transform: rotate(20deg);
-  margin: 16vh 73vh 0 0;
 }
 
 .twitter {
@@ -222,7 +221,6 @@
   -moz-transform: rotate(7deg);
   -o-transform: rotate(7deg);
   transform: rotate(7deg);
-  margin: -23vh -4vh 0 0;
 }
 
 .linkedin {
@@ -231,7 +229,6 @@
   -moz-transform: rotate(-8deg);
   -o-transform: rotate(-8deg);
   transform: rotate(-8deg);
-  margin: -9vh -45vh 0 0;
 }
 
 .kofi {
@@ -240,7 +237,6 @@
   -moz-transform: rotate(-20deg);
   -o-transform: rotate(-20deg);
   transform: rotate(-20deg);
-  margin: 12vh -69vh 0 0;
 }
 
 .error-title {

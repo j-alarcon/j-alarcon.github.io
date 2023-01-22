@@ -63,6 +63,36 @@
   right: -56vh;
 }
 
+.twitter {
+  bottom: 50vh;
+  left: -4vh;
+}
+
+.linkedin {
+  bottom: 36vh;
+  left: 17vh;
+}
+
+.kofi {
+  bottom: 16vh;
+  left: 28vh;
+}
+
+.facebook {
+  bottom: 42vh;
+  left: -36vh;
+}
+
+.github {
+  bottom: 24vh;
+  left: -34vh;
+}
+
+.instagram {
+  bottom: 11vh;
+  right: 30vh;
+}
+
 .penguin-thinking {
   z-index: 1;
 }

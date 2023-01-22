@@ -75,11 +75,13 @@
   }
 
   .bubble4 {
-    margin: -6.5vh 12vh 0 0;
+    bottom: 52.5vh;
+    right: 1vh;
   }
-
+  
   .bubble5 {
-    margin: 8vh 4vh 0 0;
+    bottom: 42vh;
+    right: -2vh;
   }
 
   .social {
@@ -88,27 +90,33 @@
   }
 
   .twitter {
-    margin: -10vh -22vh 0 0;
+    bottom: 41vh;
+    left: 6vh;
   }
 
   .linkedin {
-    margin: 1.5vh -38vh 0 0;
+    bottom: 29.5vh;
+    left: 14vh;
   }
 
   .kofi {
-    margin: 12vh -52vh 0 0;
+    bottom: 19.5vh;
+    left: 22vh;
   }
 
   .facebook {
-    margin: -8vh 30vh 0 0;
+    bottom: 38vh;
+    left: -20vh;
   }
 
   .github {
-    margin: 4vh 44.5vh 0 0;
+    bottom: 25vh;
+    left: -27vh;
   }
 
   .instagram {
-    margin: 14.5vh 51vh 0 0;
+    bottom: 14.5vh;
+    right: 22vh;
   }
 
   .penguin-thinking {
@@ -138,11 +146,13 @@
   }
 
   .bubble4 {
-    margin: 0 16vh 0 0;
+    bottom: 49vh;
+    right: 1vh;
   }
-
+  
   .bubble5 {
-    margin: 12vh 10vh 0 0;
+    bottom: 41vh;
+    right: 0vh;
   }
 
   .social {
@@ -151,31 +161,33 @@
   }
 
   .twitter {
-    margin: 0;
-    bottom: 42vh;
-    left: 28vh;
+    bottom: 41vh;
+    left: 6vh;
   }
 
   .linkedin {
-    margin: 0;
-    bottom: 46vh;
-    left: 38vh;
+    bottom: 48vh;
+    left: 13.6vh;
   }
 
   .kofi {
-    margin: 7vh 34vh 0 0;
+    bottom: 27vh;
+    left: -20vh;
   }
 
   .facebook {
-    margin: 17vh 35vh 0 0;
+    bottom: 18vh;
+    left: -20.5vh;
   }
 
   .github {
-    margin: 0.5vh -21vh 0 0;
+    bottom: 32vh;
+    left: 10vh;
   }
 
   .instagram {
-    margin: 8.8vh -30vh 0 0;
+    bottom: 24.5vh;
+    left: 13.7vh;
   }
 
   .penguin-thinking {
