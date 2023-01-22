@@ -64,7 +64,7 @@
 /* Under construction screen */
 @media screen and (max-width: 120vh) {
   .bubble-container {
-    height: 25vh;
+    height: 25%;
     padding-right: 0;
   }
 
@@ -74,11 +74,19 @@
     margin: 3vh 0 9vh 2vh;
   }
 
+  .bubble1 {
+    right: 12vh;
+  }
+
+  .bubble3 {
+    right: -62vh;
+  }
+
   .bubble4 {
     bottom: 52.5vh;
     right: 1vh;
   }
-  
+
   .bubble5 {
     bottom: 42vh;
     right: -2vh;
@@ -136,7 +144,7 @@
   }
 
   .bubble-container {
-    height: 35vh;
+    height: 50%;
     padding-right: 0;
   }
 
@@ -145,11 +153,23 @@
     margin: 0vh 2.5vh 0 2.5vh;
   }
 
+  .bubble1 {
+    right: -10vh;
+  }
+
+  .bubble2 {
+    right: -40vh;
+  }
+
+  .bubble3 {
+    right: -80vh;
+  }
+
   .bubble4 {
     bottom: 42vh;
     right: 1vh;
   }
-  
+
   .bubble5 {
     bottom: 34vh;
     right: 0vh;
@@ -167,17 +187,17 @@
 
   .linkedin {
     bottom: 38.5vh;
-    left: 12.5vh;
+    left: 13.5vh;
   }
 
   .kofi {
     bottom: 27vh;
-    left: -19vh;
+    left: -20vh;
   }
 
   .facebook {
     bottom: 18vh;
-    left: -20vh;
+    left: -20.5vh;
   }
 
   .github {
@@ -187,7 +207,7 @@
 
   .instagram {
     bottom: 23vh;
-    left: 12.5vh;
+    left: 13.5vh;
   }
 
   .penguin-thinking {
