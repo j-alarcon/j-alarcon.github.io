@@ -71,7 +71,8 @@
   .bubble-text {
     width: auto;
     text-align: justify;
-    margin: 3vh 0 9vh 2vh;
+    top: 7.5vh;
+    margin: 0 0 0 0;
   }
 
   .bubble1 {
@@ -83,12 +84,12 @@
   }
 
   .bubble4 {
-    bottom: 52.5vh;
+    bottom: 51.5vh;
     right: 1vh;
   }
 
   .bubble5 {
-    bottom: 42vh;
+    bottom: 41.5vh;
     right: -2vh;
   }
 
@@ -149,7 +150,7 @@
   }
 
   .bubble-text {
-    top: 8.5vh;
+    top: 9vh;
     margin: 0vh 2.5vh 0 2.5vh;
   }
 
@@ -166,12 +167,12 @@
   }
 
   .bubble4 {
-    bottom: 42vh;
-    right: 1vh;
+    bottom: 43vh;
+    right: -1vh;
   }
 
   .bubble5 {
-    bottom: 34vh;
+    bottom: 35vh;
     right: 0vh;
   }
 
