@@ -133,8 +133,8 @@
   }
 
   .bubble-text {
-    top: 8vh;
-    margin: 0vh 2vh 0 2vh;
+    top: 8.5vh;
+    margin: 0vh 2.5vh 0 2.5vh;
   }
 
   .bubble4 {
@@ -151,20 +151,23 @@
   }
 
   .twitter {
-    right: -2vh;
-    margin: -8vh 0 0 0;
+    margin: 0;
+    bottom: 42vh;
+    left: 28vh;
   }
 
   .linkedin {
-    margin: -10vh -29vh 0 0;
+    margin: 0;
+    bottom: 46vh;
+    left: 38vh;
   }
 
   .kofi {
-    margin: 0 25vh 0 0;
+    margin: 7vh 34vh 0 0;
   }
 
   .facebook {
-    margin: 8vh 33.5vh 0 0;
+    margin: 17vh 35vh 0 0;
   }
 
   .github {
@@ -176,6 +179,6 @@
   }
 
   .penguin-thinking {
-    width: 38vh;
+    width: 36vh;
   }
 }
