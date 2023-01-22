@@ -1,5 +1,5 @@
 /* https://yarduon.com */
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1400px) {
   .normal-fontsize-spec {
     font-size: 2.9vh;
   }
@@ -10,7 +10,7 @@
     }
   }
   .bubble-text {
-    margin: 0 20% 0 25%;
+    margin-left: 10vh;
   }
 }
 
@@ -21,58 +21,6 @@
 
   .big-fontsize {
     font-size: 3rem;
-  }
-
-  .bubble-container {
-    height: 25vh;
-    padding-right: 0;
-  }
-
-  .bubble-text {
-    width: auto;
-    text-align: justify;
-    margin: 3vh 0 9vh 2vh;
-  }
-
-  .bubble4 {
-    margin: -6.5vh 12vh 0 0;
-  }
-
-  .bubble5 {
-    margin: 8vh 4vh 0 0;
-  }
-
-  .social {
-    width: 9vh;
-    height: 9vh;
-  }
-
-  .twitter {
-    margin: -10vh -22vh 0 0;
-  }
-
-  .linkedin {
-    margin: 1.5vh -38vh 0 0;
-  }
-
-  .kofi {
-    margin: 12vh -52vh 0 0;
-  }
-
-  .facebook {
-    margin: -9vh 30vh 0 0;
-  }
-
-  .github {
-    margin: 5vh 45vh 0 0;
-  }
-
-  .instagram {
-    margin: 15.5vh 51vh 0 0;
-  }
-
-  .penguin-thinking {
-    width: 44vh;
   }
 }
 
@@ -114,6 +62,60 @@
 }
 
 /* Under construction screen */
+@media screen and (max-width: 120vh) {
+  .bubble-container {
+    height: 25vh;
+    padding-right: 0;
+  }
+
+  .bubble-text {
+    width: auto;
+    text-align: justify;
+    margin: 3vh 0 9vh 2vh;
+  }
+
+  .bubble4 {
+    margin: -6.5vh 12vh 0 0;
+  }
+
+  .bubble5 {
+    margin: 8vh 4vh 0 0;
+  }
+
+  .social {
+    width: 9vh;
+    height: 9vh;
+  }
+
+  .twitter {
+    margin: -10vh -22vh 0 0;
+  }
+
+  .linkedin {
+    margin: 1.5vh -38vh 0 0;
+  }
+
+  .kofi {
+    margin: 12vh -52vh 0 0;
+  }
+
+  .facebook {
+    margin: -8vh 30vh 0 0;
+  }
+
+  .github {
+    margin: 4vh 44.5vh 0 0;
+  }
+
+  .instagram {
+    margin: 14.5vh 51vh 0 0;
+  }
+
+  .penguin-thinking {
+    width: 44vh;
+  }
+}
+
 @media screen and (max-width: 70vh) {
   .medium-circle {
     width: 10vh;
@@ -148,28 +150,28 @@
   }
 
   .twitter {
-    top: 2vh;
-    margin-left: -13vh;
+    display: inline-block;
+    margin: -8vh -9vh 0 0;
   }
 
   .linkedin {
-    margin: -10vh -31vh 0 0;
+    margin: -10vh -29vh 0 0;
   }
 
   .kofi {
-    margin: 3vh 35vh 0 0;
+    margin: -5vh 29vh 0 0;
   }
 
   .facebook {
-    margin: 15vh 36vh 0 0;
+    margin: 4vh 32vh 0 0;
   }
 
   .github {
-    margin: 1vh -23vh 0 0;
+    margin: 0.5vh -21vh 0 0;
   }
 
   .instagram {
-    margin: 9vh -32vh 0 0;
+    margin: 8.8vh -30vh 0 0;
   }
 
   .penguin-thinking {
