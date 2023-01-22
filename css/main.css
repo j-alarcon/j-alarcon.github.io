@@ -190,32 +190,56 @@
 }
 
 .facebook {
-  rotate: 15deg;
+  -ms-transform: rotate(15deg);
+  -webkit-transform: rotate(15deg);
+  -moz-transform: rotate(15deg);
+  -o-transform: rotate(15deg);
+  transform: rotate(15deg);
   margin: -15vh 60vh 0 0;
 }
 
 .github {
-  rotate: -15deg;
+  -ms-transform: rotate(-15deg);
+  -webkit-transform: rotate(-15deg);
+  -moz-transform: rotate(-15deg);
+  -o-transform: rotate(-15deg);
+  transform: rotate(-15deg);
   margin: 3vh 57vh 0 0;
 }
 
 .instagram {
-  rotate: 20deg;
+  -ms-transform: rotate(20deg);
+  -webkit-transform: rotate(20deg);
+  -moz-transform: rotate(20deg);
+  -o-transform: rotate(20deg);
+  transform: rotate(20deg);
   margin: 16vh 73vh 0 0;
 }
 
 .twitter {
-  rotate: 7deg;
+  -ms-transform: rotate(7deg);
+  -webkit-transform: rotate(7deg);
+  -moz-transform: rotate(7deg);
+  -o-transform: rotate(7deg);
+  transform: rotate(7deg);
   margin: -23vh -4vh 0 0;
 }
 
 .linkedin {
-  rotate: -8deg;
+  -ms-transform: rotate(-8deg);
+  -webkit-transform: rotate(-8deg);
+  -moz-transform: rotate(-8deg);
+  -o-transform: rotate(-8deg);
+  transform: rotate(-8deg);
   margin: -9vh -45vh 0 0;
 }
 
 .kofi {
-  rotate: -20deg;
+  -ms-transform: rotate(-20deg);
+  -webkit-transform: rotate(-20deg);
+  -moz-transform: rotate(-20deg);
+  -o-transform: rotate(-20deg);
+  transform: rotate(-20deg);
   margin: 12vh -69vh 0 0;
 }
 

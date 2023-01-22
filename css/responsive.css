@@ -148,7 +148,8 @@
   }
 
   .twitter {
-    margin: -8vh -10vh 0 0;
+    top: 2vh;
+    margin-left: -13vh;
   }
 
   .linkedin {
