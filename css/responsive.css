@@ -145,8 +145,8 @@
   }
 
   .social {
-    width: 6.5vh;
-    height: 6.5vh;
+    width: 6vh;
+    height: 6vh;
   }
 
   .twitter {
@@ -159,11 +159,11 @@
   }
 
   .kofi {
-    margin: -5vh 29vh 0 0;
+    margin: -1vh 30vh 0 0;
   }
 
   .facebook {
-    margin: 4vh 32vh 0 0;
+    margin: 8vh 33vh 0 0;
   }
 
   .github {
