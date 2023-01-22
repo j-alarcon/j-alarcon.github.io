@@ -133,7 +133,8 @@
   }
 
   .bubble-text {
-    margin: 0vh 2vh 11vh 2vh;
+    top: 8vh;
+    margin: 0vh 2vh 0 2vh;
   }
 
   .bubble4 {
