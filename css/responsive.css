@@ -23,13 +23,56 @@
     font-size: 3rem;
   }
 
+  .bubble-container {
+    height: 25vh;
+    padding-right: 0;
+  }
+
+  .bubble-text {
+    width: auto;
+    text-align: justify;
+    margin: 3vh 0 9vh 2vh;
+  }
+
+  .bubble4 {
+    margin: -6.5vh 12vh 0 0;
+  }
+
+  .bubble5 {
+    margin: 8vh 4vh 0 0;
+  }
+
   .social {
-    width: 10vh;
-    height: 10vh;
+    width: 9vh;
+    height: 9vh;
+  }
+
+  .twitter {
+    margin: -10vh -22vh 0 0;
+  }
+
+  .linkedin {
+    margin: 1.5vh -38vh 0 0;
+  }
+
+  .kofi {
+    margin: 12vh -52vh 0 0;
+  }
+
+  .facebook {
+    margin: -9vh 30vh 0 0;
+  }
+
+  .github {
+    margin: 5vh 45vh 0 0;
+  }
+
+  .instagram {
+    margin: 15.5vh 51vh 0 0;
   }
 
   .penguin-thinking {
-    width: 47vh;
+    width: 44vh;
   }
 }
 
@@ -88,9 +131,7 @@
   }
 
   .bubble-text {
-    width: auto;
-    text-align: justify;
-    margin: 6vh 2vh 0 2vh;
+    margin: 0vh 2vh 11vh 2vh;
   }
 
   .bubble4 {
