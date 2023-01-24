@@ -167,12 +167,12 @@
   }
 
   .bubble4 {
-    bottom: 43vh;
+    bottom: 41vh;
     right: -1vh;
   }
 
   .bubble5 {
-    bottom: 35vh;
+    bottom: 33.5vh;
     right: 0vh;
   }
 
@@ -182,33 +182,33 @@
   }
 
   .twitter {
-    bottom: 41vh;
-    left: 3.5vh;
+    bottom: 31vh;
+    left: 1.2vh;
   }
 
   .linkedin {
-    bottom: 38.5vh;
-    left: 13.5vh;
+    bottom: 27vh;
+    left: 9vh;
   }
 
   .kofi {
-    bottom: 27vh;
-    left: -20vh;
+    bottom: 19vh;
+    left: 12.5vh;
   }
 
   .facebook {
-    bottom: 18vh;
-    left: -20.5vh;
+    bottom: 31vh;
+    left: -14.5vh;
   }
 
   .github {
-    bottom: 30vh;
-    left: 8.5vh;
+    bottom: 22vh;
+    left: -20vh;
   }
 
   .instagram {
-    bottom: 23vh;
-    left: -13.5vh;
+    bottom: 14vh;
+    left: -20vh;
   }
 
   .penguin-thinking {
