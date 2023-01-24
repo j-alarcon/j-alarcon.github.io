@@ -84,13 +84,13 @@
   }
 
   .bubble4 {
-    bottom: 51.5vh;
-    right: 1vh;
+    bottom: 53vh;
+    right: -1vh;
   }
 
   .bubble5 {
-    bottom: 41.5vh;
-    right: -2vh;
+    bottom: 42vh;
+    right: -1.5vh;
   }
 
   .social {
@@ -99,33 +99,33 @@
   }
 
   .twitter {
-    bottom: 41vh;
-    left: 6vh;
+    bottom: 32vh;
+    left: 5vh;
   }
 
   .linkedin {
-    bottom: 29.5vh;
-    left: 14vh;
+    bottom: 20vh;
+    left: 15vh;
   }
 
   .kofi {
-    bottom: 19vh;
-    left: 21vh;
+    bottom: 5vh;
+    left: 23vh;
   }
 
   .facebook {
-    bottom: 38vh;
-    left: -20vh;
+    bottom: 31vh;
+    left: -21vh;
   }
 
   .github {
-    bottom: 25vh;
+    bottom: 18vh;
     left: -27vh;
   }
 
   .instagram {
-    bottom: 14.5vh;
-    left: -22vh;
+    bottom: 7vh;
+    left: -29.5vh;
   }
 
   .penguin-thinking {
@@ -133,7 +133,7 @@
   }
 }
 
-@media screen and (max-width: 70vh) {
+@media screen and (max-width: 75vh) {
   .medium-circle {
     width: 10vh;
     height: 10vh;
