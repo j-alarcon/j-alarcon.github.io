@@ -125,7 +125,7 @@
 
   .instagram {
     bottom: 14.5vh;
-    right: 22vh;
+    left: -22vh;
   }
 
   .penguin-thinking {
@@ -208,7 +208,7 @@
 
   .instagram {
     bottom: 23vh;
-    right: 13.5vh;
+    left: -13.5vh;
   }
 
   .penguin-thinking {
