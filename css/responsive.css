@@ -134,19 +134,24 @@
 }
 
 @media screen and (max-width: 75vh) {
+  .small-circle,
+  .social {
+    width: 6vh;
+    height: 6vh;
+  }
+
+  .kofi,
+  .twitter {
+    left: 13.5vh;
+  }
+
   .medium-circle {
     width: 10vh;
     height: 10vh;
   }
 
-  .small-circle {
-    width: 6vh;
-    height: 6vh;
-  }
-
   .bubble-container {
     height: 50%;
-    padding-right: 0;
   }
 
   .bubble-text {
@@ -176,14 +181,8 @@
     right: -1vh;
   }
 
-  .social {
-    width: 6vh;
-    height: 6vh;
-  }
-
   .twitter {
     bottom: 37vh;
-    left: 13.5vh;
   }
 
   .linkedin {
@@ -193,7 +192,6 @@
 
   .kofi {
     bottom: 23vh;
-    left: 13.5vh;
   }
 
   .facebook {
@@ -216,48 +214,41 @@
   }
 }
 
-@media screen and (max-width: 50vh) {
+@media screen and (max-width: 50vh) and (max-height: 100vh) {
   .bubble4 {
-    bottom: 43vh;
-    right: -2vh;
+    bottom: 43.5vh;
+    right: -2.5vh;
   }
 
   .bubble5 {
     bottom: 35vh;
-    right: -1vh;
-  }
-
-  .social {
-    width: 6vh;
-    height: 6vh;
   }
 
   .twitter {
     bottom: 39vh;
-    left: 13vh;
+    left: 12vh;
   }
 
   .linkedin {
     bottom: 31.5vh;
-    left: 5.5vh;
+    left: 5vh;
   }
 
   .kofi {
     bottom: 24vh;
-    left: 11vh;
+    left: 10vh;
   }
 
   .facebook {
-    bottom: 40vh;
-    left: -20vh;
+    left: -18vh;
   }
 
   .github {
     bottom: 30.6vh;
-    left: -16vh;
+    left: -15vh;
   }
 
   .instagram {
-    left: -20vh;
+    left: -18.5vh;
   }
 }
