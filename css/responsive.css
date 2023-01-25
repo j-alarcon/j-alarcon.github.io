@@ -183,6 +183,57 @@
 
   .twitter {
     bottom: 37vh;
+    left: 13.5vh;
+  }
+
+  .linkedin {
+    bottom: 29.8vh;
+    left: 6vh;
+  }
+
+  .kofi {
+    bottom: 23vh;
+    left: 13.5vh;
+  }
+
+  .facebook {
+    bottom: 40vh;
+    left: -20vh;
+  }
+
+  .github {
+    bottom: 30.5vh;
+    left: -17vh;
+  }
+
+  .instagram {
+    bottom: 22vh;
+    left: -20.5vh;
+  }
+
+  .penguin-thinking {
+    width: 35vh;
+  }
+}
+
+@media screen and (max-width: 50vh) {
+  .bubble4 {
+    bottom: 42vh;
+    right: -2vh;
+  }
+
+  .bubble5 {
+    bottom: 34vh;
+    right: -1vh;
+  }
+
+  .social {
+    width: 6vh;
+    height: 6vh;
+  }
+
+  .twitter {
+    bottom: 37vh;
     left: 12vh;
   }
 
@@ -207,11 +258,6 @@
   }
 
   .instagram {
-    bottom: 22vh;
     left: -19vh;
-  }
-
-  .penguin-thinking {
-    width: 35vh;
   }
 }
