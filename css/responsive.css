@@ -218,12 +218,12 @@
 
 @media screen and (max-width: 50vh) {
   .bubble4 {
-    bottom: 42vh;
+    bottom: 43vh;
     right: -2vh;
   }
 
   .bubble5 {
-    bottom: 34vh;
+    bottom: 35vh;
     right: -1vh;
   }
 
@@ -233,13 +233,13 @@
   }
 
   .twitter {
-    bottom: 37vh;
-    left: 12vh;
+    bottom: 39vh;
+    left: 13vh;
   }
 
   .linkedin {
-    bottom: 31vh;
-    left: 4vh;
+    bottom: 31.5vh;
+    left: 5.5vh;
   }
 
   .kofi {
@@ -249,15 +249,15 @@
 
   .facebook {
     bottom: 40vh;
-    left: -18.5vh;
+    left: -20vh;
   }
 
   .github {
-    bottom: 30.5vh;
+    bottom: 30.6vh;
     left: -16vh;
   }
 
   .instagram {
-    left: -19vh;
+    left: -20vh;
   }
 }
