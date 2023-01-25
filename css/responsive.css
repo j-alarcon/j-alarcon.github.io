@@ -64,7 +64,7 @@
 /* Under construction screen */
 @media screen and (max-width: 120vh) {
   .bubble-container {
-    height: 25%;
+    height: 25vh;
     padding-right: 0;
   }
 
@@ -151,7 +151,7 @@
   }
 
   .bubble-container {
-    height: 50%;
+    height: 50vh;
   }
 
   .bubble-text {
@@ -164,11 +164,15 @@
   }
 
   .bubble2 {
-    right: -40vh;
+    right: -43vh;
   }
 
   .bubble3 {
-    right: -80vh;
+    right: -85vh;
+  }
+
+  .penguin-container {
+    padding-right: 0;
   }
 
   .bubble4 {
@@ -182,30 +186,30 @@
   }
 
   .twitter {
-    bottom: 37vh;
+    bottom: 41vh;
   }
 
   .linkedin {
-    bottom: 29.8vh;
+    bottom: 32.5vh;
     left: 6vh;
   }
 
   .kofi {
-    bottom: 23vh;
+    bottom: 25vh;
   }
 
   .facebook {
-    bottom: 40vh;
+    bottom: 42vh;
     left: -20vh;
   }
 
   .github {
-    bottom: 30.5vh;
-    left: -17vh;
+    bottom: 32vh;
+    left: -16vh;
   }
 
   .instagram {
-    bottom: 22vh;
+    bottom: 26vh;
     left: -20.5vh;
   }
 

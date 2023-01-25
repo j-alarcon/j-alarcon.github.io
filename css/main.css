@@ -157,12 +157,13 @@
 }
 
 .bubble-container {
-  height: 15%;
+  height: 15vh;
   padding-right: 50vh;
 }
 
 .penguin-container {
-  height: 60%;
+  padding-right: 3.5vh;
+  height: 57vh;
 }
 
 .penguin-thinking {
