@@ -155,7 +155,7 @@
   }
 
   .bubble-container {
-    height: 50vh;
+    height: 45vh;
   }
 
   .bubble-text {
@@ -208,11 +208,11 @@
   }
 
   .penguin-thinking {
-    width: 33vh;
+    width: 32vh;
   }
 
   .extra-bubbles {
-    top: -3.5vh;
+    top: -2.5vh;
     height: 20vh;
   }
 }
