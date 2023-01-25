@@ -141,7 +141,7 @@
 
   .kofi,
   .twitter {
-    left: 13.5vh;
+    left: 12vh;
   }
 
   .medium-circle {
@@ -149,7 +149,7 @@
     height: 9vh;
   }
 
-  .small-circle{
+  .small-circle {
     width: 5vh;
     height: 5vh;
   }
@@ -180,31 +180,32 @@
   }
 
   .twitter {
-    bottom: 41vh;
+    left: 12vh;
+    bottom: 43vh;
   }
 
   .linkedin {
-    bottom: 32.5vh;
+    bottom: 33vh;
     left: 6vh;
   }
 
   .kofi {
-    bottom: 25vh;
+    bottom: 24vh;
   }
 
   .facebook {
-    bottom: 42vh;
-    left: -20vh;
+    bottom: 43vh;
+    left: -19vh;
   }
 
   .github {
-    bottom: 32vh;
-    left: -16vh;
+    bottom: 33vh;
+    left: -13vh;
   }
 
   .instagram {
-    bottom: 26vh;
-    left: -20.5vh;
+    bottom: 27.5vh;
+    left: -18.5vh;
   }
 
   .penguin-thinking {
