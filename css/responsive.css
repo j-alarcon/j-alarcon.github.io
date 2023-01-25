@@ -134,7 +134,6 @@
 }
 
 @media screen and (max-width: 75vh) {
-  .small-circle,
   .social {
     width: 6vh;
     height: 6vh;
@@ -146,8 +145,13 @@
   }
 
   .medium-circle {
-    width: 10vh;
-    height: 10vh;
+    width: 9vh;
+    height: 9vh;
+  }
+
+  .small-circle{
+    width: 5vh;
+    height: 5vh;
   }
 
   .bubble-container {
@@ -204,11 +208,11 @@
   }
 
   .penguin-thinking {
-    width: 34vh;
+    width: 33vh;
   }
 
-  .extra-bubbles{
-   top: -4vh;
-   height: 21vh;
+  .extra-bubbles {
+    top: -3.5vh;
+    height: 20vh;
   }
 }
