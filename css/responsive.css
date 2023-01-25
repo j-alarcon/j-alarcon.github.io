@@ -175,16 +175,6 @@
     padding-right: 0;
   }
 
-  .bubble4 {
-    bottom: 41vh;
-    right: -2vh;
-  }
-
-  .bubble5 {
-    bottom: 33vh;
-    right: -1vh;
-  }
-
   .twitter {
     bottom: 41vh;
   }
@@ -215,5 +205,10 @@
 
   .penguin-thinking {
     width: 35vh;
+  }
+
+  .extra-bubbles{
+   top: -6.5vh;
+   height: 25vh;
   }
 }
